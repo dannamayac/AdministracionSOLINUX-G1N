@@ -3,7 +3,7 @@ Creación del archivo README.md
 Se crearon las carpetas Abuela, Madre, hija a través del comando mkdir y cada una con su respectiva información en un archivo txt con el comando vi
 Igualmente se crearon las carpetas Abuelo, Padre, Hijo a través del comando mkdir y cada una con su respectiva información en un archivo txt con el comando vi
 
-<img src= "C:\Users\danna\Linux\AdministracionSOLINUX-G1N\InfraestructuraComputacional\Seguimiento\1\F1.png" style="max-width:100%;">
+<img src= "InfraestructuraComputacional\Seguimiento\1\F1.png" style="max-width:100%;">
 
 A continuación se muestra cada una de las carpetas creadas
 
