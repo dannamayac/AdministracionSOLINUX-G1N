@@ -7,10 +7,10 @@ Igualmente se crearon las carpetas Abuelo, Padre, Hijo a través del comando mkd
 
 A continuación se muestra cada una de las carpetas creadas
 
-<href:InfraestructuraComputacional\Seguimiento\1\F2.png>
-<href:InfraestructuraComputacional\Seguimiento\1\F3.png>
-<href:InfraestructuraComputacional\Seguimiento\1\F4.png>
-<href:InfraestructuraComputacional\Seguimiento\1\F5.png>
-<href:InfraestructuraComputacional\Seguimiento\1\F6.png>
-<href:InfraestructuraComputacional\Seguimiento\1\F7.png>
-<href:InfraestructuraComputacional\Seguimiento\1\F8.png>
+<img src= "InfraestructuraComputacional\Seguimiento\1\F2.png" style="max-width:100%;" >
+<img src= "InfraestructuraComputacional\Seguimiento\1\F3.png" style="max-width:100%;">
+<img src= "InfraestructuraComputacional\Seguimiento\1\F4.png" style="max-width:100%;">
+<img src= "InfraestructuraComputacional\Seguimiento\1\F5.png" style="max-width:100%;">
+<img src= "InfraestructuraComputacional\Seguimiento\1\F6.png" style="max-width:100%;">
+<img src= "InfraestructuraComputacional\Seguimiento\1\F7.png" style="max-width:100%;">
+<img src= "InfraestructuraComputacional\Seguimiento\1\F8.png" style="max-width:100%;">
