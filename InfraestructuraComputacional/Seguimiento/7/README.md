@@ -4,7 +4,7 @@ Taller 7
 
 1. Se instala en la base de datos de la maquina virtual mariadb usando el comando sudo dnf install maria db-server-y
 
-<img src= "https://github.com/dannamayac/AdministracionSOLINUX-G1N/blob/main/InfraestructuraComputacional/Seguimiento/7/1%20(1).jpgg" style="max-width:100%;">
+<img src= "https://github.com/dannamayac/AdministracionSOLINUX-G1N/blob/main/InfraestructuraComputacional/Seguimiento/7/1%20(1).jpg" style="max-width:100%;">
 
 2. Se inicia el servicio de la base de datos mediante el comando systemctl star maria db
 
