@@ -7,16 +7,16 @@ Taller 6
 
 2. Se creó un usuario llamado webserver que pertenezca al grupo infraestructura
 
-<img src= "InfraestructuraComputacional\Seguimiento\6\2.jpg" style="max-width:100%;">
+<img src= "https://github.com/dannamayac/AdministracionSOLINUX-G1N/blob/main/InfraestructuraComputacional/Seguimiento/6/2.jpg" style="max-width:100%;">
 
 3. Se desinstala el servidor ngix con yum remove nginx
 
-<img src= "InfraestructuraComputacional\Seguimiento\6\2.jpg" style="max-width:100%;">
+<img src= "https://github.com/dannamayac/AdministracionSOLINUX-G1N/blob/main/InfraestructuraComputacional/Seguimiento/6/3.jpg" style="max-width:100%;">
 
 4. Se usa el script del taller 5 para modificarlo 
 
-<img src= "InfraestructuraComputacional\Seguimiento\6\4.jpg" style="max-width:100%;">
+<img src= "https://github.com/dannamayac/AdministracionSOLINUX-G1N/blob/main/InfraestructuraComputacional/Seguimiento/6/4.jpg" style="max-width:100%;">
 
 5. Por ultimo se verifica que funcione el despliegue
 
-<img src= "InfraestructuraComputacional\Seguimiento\6\5.jpg" style="max-width:100%;">
+<img src= "https://github.com/dannamayac/AdministracionSOLINUX-G1N/blob/main/InfraestructuraComputacional/Seguimiento/6/5.jpg" style="max-width:100%;">
