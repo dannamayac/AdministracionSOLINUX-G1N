@@ -3,4 +3,4 @@ Taller 5
 
 1. Se crea el primer archivo script
 
-<img src= "InfraestructuraComputacional\Seguimiento\5\1 (1).jpg" style="max-width:100%;">
+<img src= "https://github.com/dannamayac/AdministracionSOLINUX-G1N/blob/main/InfraestructuraComputacional/Seguimiento/5/1%20(1).jpg" style="max-width:100%;">
