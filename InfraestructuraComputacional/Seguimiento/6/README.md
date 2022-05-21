@@ -3,7 +3,7 @@ Taller 6
 
 1. Primero se crea el grupo infraestructura con groupadd -g 7777
 
-<img src= "InfraestructuraComputacional\Seguimiento\6\1.jpg" style="max-width:100%;">
+<img src= "https://github.com/dannamayac/AdministracionSOLINUX-G1N/blob/main/InfraestructuraComputacional/Seguimiento/6/1.jpg" style="max-width:100%;">
 
 2. Se creó un usuario llamado webserver que pertenezca al grupo infraestructura
 
